@@ -1,5 +1,6 @@
 # Weather-Application
 This weather app built using Python retrieves real-time weather information based on user input, displaying current temperature, weather conditions, and other details in a user-friendly interface.
+
 Various Python libraries used in the weather app are as follows:
 
 tkinter - a standard GUI (Graphical User Interface) library for Python, which provides several widgets like buttons, labels, and text boxes for building graphical interfaces for desktop applications.
