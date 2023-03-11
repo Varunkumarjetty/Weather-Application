@@ -17,6 +17,26 @@ timezonefinder - a lightweight Python library that provides fast and accurate ti
 
 OpenWeatherMap API - an API (Application Programming Interface) that provides current weather data, hourly forecasts, and daily forecasts for cities around the world. We have used this API to fetch the current weather data for the city entered by the user.
 
+This is a user-friendly Weather App created using Python programming language. The app provides real-time weather information of any city across the globe. The GUI of the app is created using the tkinter library, making it easy to use and interactive. The app uses multiple libraries such as requests, pytz, timezonefinder, geopy, and OpenWeatherMap API for fetching and displaying weather information.
+
+Features:
+
+Fetches real-time weather information for any city
+Displays temperature, condition, wind, pressure, humidity, and description
+Automatically detects the user's time zone and displays local time
+User-friendly GUI created using tkinter library
+
+Installation:
+
+Clone the repository or download the zip file
+Install the required libraries using pip (requests, pytz, timezonefinder, geopy, tkinter)
+Run the weather_app.py file
+
+Usage:
+
+Enter the name of the city for which you want to check the weather
+Click on the "Get Weather" button
+The app will display the current weather information for the entered city
 
 
 
