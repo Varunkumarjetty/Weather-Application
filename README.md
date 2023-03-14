@@ -1,4 +1,6 @@
 # Weather-Application
+![1st](https://user-images.githubusercontent.com/119765379/225028784-3c821b78-d368-40c0-8143-b044cf7fc5e8.png)
+
 This weather app built using Python retrieves real-time weather information based on user input, displaying current temperature, weather conditions, and other details in a user-friendly interface.
 
 Various Python libraries used in the weather app are as follows:
